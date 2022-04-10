@@ -1,11 +1,11 @@
-# node-express-server-basics
+# Express.js Learnings
 
-# project setup:
+##### project setup:
 
-# (01) npm init
+###### (01) npm init
 
-# (02) npm i nodemon --save-dev
+###### (02) npm i nodemon --save-dev
 
-# (03) npm i express
+###### (03) npm i express
 
 ![express](./assets/express.png)
